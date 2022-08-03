@@ -15,7 +15,7 @@ the `dependencies` value of your `Package.swift`.
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/horizontalsystems/OpenSSLKit.git", .upToNextMajor(from: "1.0.0"))
+    .package(url: "https://github.com/cuhte3/OpenSSLKit.git", .upToNextMajor(from: "1.0.0"))
 ]
 ```
 
