@@ -6,6 +6,7 @@ let package = Package(
     name: "OpenSSLKit",
     platforms: [
         .iOS(.v13),
+        .macOS(.v11)
     ],
     products: [
         .library(
